@@ -117,7 +117,7 @@ Audits/ Formal Verification
 
 Security and Liability
 ----------------------
-All contracts are WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+All contracts are WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Please note that deployments in different networks will result in different contract addresses.
 
 License
 -------
